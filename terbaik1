@@ -1,0 +1,19 @@
+[
+ {
+    "HostName": "vpn147888973",
+    "IP": "218.239.185.88",
+    "Score": 516826,
+    "Ping": 32,
+    "Speed": 88541310,
+    "CountryLong": "Germany",
+    "CountryShort": "DE",
+    "NumVpnSessions": 6,
+    "Uptime": 1000,
+    "TotalUsers": 137246,
+    "TotalTraffic": 8500431428574,
+    "LogType": "2weeks",
+    "Operator": "DESKTOP-HMGFFRS's owner",
+    "Message": "",
+    "OpenVPN_ConfigData_Base64": "W0ludGVyZmFjZV0KQWRkcmVzcyA9IDEwLjcuMC4yLzI0CkROUyA9IDguOC44LjgsIDguOC40LjQKUHJpdmF0ZUtleSA9IFVNMEdHY0xyaWw4Q1ZKTStOK0dJN1ZUNS8rbTVUZ21CTDczMFZuTVdBVVU9CgpbUGVlcl0KUHVibGljS2V5ID0gVjVJRlp4elFlNmdJdVh2WVBGV1dNYUR4cjlFOVB2Nk9wV09KbzJUUmJtdz0KUHJlc2hhcmVkS2V5ID0gSmFWRFJ1MHlYNm8rWkZyeTV1TnlDRjZqTkdielgycm1CZUdGU1dvSXJ3ST0KQWxsb3dlZElQcyA9IDAuMC4wLjAvMCwgOjovMApFbmRwb2ludCA9IDkyLjExOC44Ljk5OjUxODIwClBlcnNpc3RlbnRLZWVwYWxpdmUgPSAyNQ=="
+  }
+]
